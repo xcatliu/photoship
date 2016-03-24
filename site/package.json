@@ -1,0 +1,24 @@
+{
+  "name": "photoship-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "build": "webpack ./entry.js bundle.js",
+    "serve": "ecstatic .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xcatliu/photoship.git"
+  },
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcatliu/photoship/issues"
+  },
+  "homepage": "https://github.com/xcatliu/photoship#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
