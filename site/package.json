@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/xcatliu/photoship#readme",
   "devDependencies": {
-    "webpack": "^1.12.14"
+    "webpack": "^4.30.0"
   }
 }
